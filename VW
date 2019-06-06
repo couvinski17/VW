@@ -1,0 +1,6 @@
+echo "# VW" >> README.md
+git init
+git add README.md
+git commit -m "just a commit"
+git remote add origin https://github.com/couvinski17/VW.git
+git push -u origin master
